@@ -12,7 +12,7 @@ Installers:
       - RelativeFilePath: ov.exe
         PortableCommandAlias: ov
     InstallerUrl: https://github.com/noborus/ov/releases/download/v0.33.1-rc2/ov_0.33.1-rc2_windows_386.zip
-    InstallerSha256: 0f64bd19d337fa97a02e6d1d10c2924206ace22bcd1843ece7c452df5af7a8b1
+    InstallerSha256: e24409362e6673e7a72746c18312133b9d2ba010bfe59b981dd1ed5d6233b7e5
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
     NestedInstallerType: portable
@@ -20,7 +20,7 @@ Installers:
       - RelativeFilePath: ov.exe
         PortableCommandAlias: ov
     InstallerUrl: https://github.com/noborus/ov/releases/download/v0.33.1-rc2/ov_0.33.1-rc2_windows_amd64.zip
-    InstallerSha256: 1938f444b146f0d7433d1a0bc7f7434bda56575b6fcf542b580defdcc36efc9a
+    InstallerSha256: d51b9bd92ba14cf871107eec7a58e45205ade674712a96c1401c7b7348db4cac
     UpgradeBehavior: uninstallPrevious
   - Architecture: arm64
     NestedInstallerType: portable
@@ -28,7 +28,7 @@ Installers:
       - RelativeFilePath: ov.exe
         PortableCommandAlias: ov
     InstallerUrl: https://github.com/noborus/ov/releases/download/v0.33.1-rc2/ov_0.33.1-rc2_windows_arm64.zip
-    InstallerSha256: 328e26229072f3092df94a48a4f78f1c00cc46cd43eefd6f5d325cd68b492426
+    InstallerSha256: f0126b1dd636b922740e1f31e73981f2ea183913698e28c9a5a9d270339c72a3
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer
 ManifestVersion: 1.5.0
